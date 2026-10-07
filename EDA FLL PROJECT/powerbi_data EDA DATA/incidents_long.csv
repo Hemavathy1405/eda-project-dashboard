@@ -1,0 +1,2161 @@
+﻿Row_ID,Weekday,Weekday_Num,Time,Hour_code,Period,Slowness_percent,Incident_Count,Incident,Has_Incident
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Immobilized bus,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Immobilized bus,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Immobilized bus,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Immobilized bus,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Immobilized bus,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Immobilized bus,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Immobilized bus,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Immobilized bus,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Immobilized bus,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Immobilized bus,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Immobilized bus,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Immobilized bus,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Immobilized bus,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,2,Immobilized bus,1
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Immobilized bus,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Immobilized bus,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Immobilized bus,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Immobilized bus,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Immobilized bus,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Immobilized bus,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Immobilized bus,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Immobilized bus,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Immobilized bus,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Immobilized bus,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Immobilized bus,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Immobilized bus,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,1,Immobilized bus,1
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,1,Immobilized bus,1
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Immobilized bus,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Immobilized bus,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Immobilized bus,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Immobilized bus,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,4,Immobilized bus,1
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Immobilized bus,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,1,Immobilized bus,1
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Immobilized bus,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Immobilized bus,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,1,Immobilized bus,1
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Immobilized bus,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Immobilized bus,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Immobilized bus,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,1,Immobilized bus,1
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,1,Immobilized bus,1
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Immobilized bus,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,1,Immobilized bus,1
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Immobilized bus,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Immobilized bus,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Immobilized bus,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,1,Immobilized bus,1
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,1,Immobilized bus,1
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Immobilized bus,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,1,Immobilized bus,1
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,1,Immobilized bus,1
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Immobilized bus,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Immobilized bus,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Immobilized bus,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Immobilized bus,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,1,Immobilized bus,1
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,1,Immobilized bus,1
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Immobilized bus,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Immobilized bus,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Immobilized bus,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Immobilized bus,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Immobilized bus,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Immobilized bus,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Immobilized bus,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Immobilized bus,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Immobilized bus,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Immobilized bus,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Immobilized bus,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Immobilized bus,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,2,Immobilized bus,1
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,1,Immobilized bus,1
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Immobilized bus,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Immobilized bus,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Immobilized bus,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,1,Immobilized bus,1
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Immobilized bus,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,1,Immobilized bus,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,1,Immobilized bus,1
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Immobilized bus,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Immobilized bus,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Immobilized bus,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Immobilized bus,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Immobilized bus,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Immobilized bus,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Immobilized bus,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Immobilized bus,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Immobilized bus,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,1,Immobilized bus,1
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,2,Immobilized bus,1
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Immobilized bus,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Immobilized bus,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,2,Immobilized bus,1
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Immobilized bus,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,1,Immobilized bus,1
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Immobilized bus,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Immobilized bus,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Immobilized bus,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Immobilized bus,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,1,Immobilized bus,1
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,1,Immobilized bus,1
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,2,Immobilized bus,1
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,1,Immobilized bus,1
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Immobilized bus,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Immobilized bus,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Immobilized bus,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Immobilized bus,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Immobilized bus,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Immobilized bus,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Immobilized bus,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,1,Immobilized bus,1
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Immobilized bus,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,2,Immobilized bus,1
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Immobilized bus,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Immobilized bus,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Immobilized bus,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Immobilized bus,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Immobilized bus,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,2,Immobilized bus,1
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Immobilized bus,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Immobilized bus,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,1,Immobilized bus,1
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Immobilized bus,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Immobilized bus,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,2,Immobilized bus,1
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Immobilized bus,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Immobilized bus,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Immobilized bus,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Immobilized bus,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,1,Immobilized bus,1
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Immobilized bus,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,1,Immobilized bus,1
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Immobilized bus,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Immobilized bus,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Broken Truck,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Broken Truck,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Broken Truck,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Broken Truck,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Broken Truck,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Broken Truck,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Broken Truck,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Broken Truck,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Broken Truck,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Broken Truck,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Broken Truck,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,1,Broken Truck,1
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Broken Truck,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,2,Broken Truck,1
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,2,Broken Truck,1
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Broken Truck,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Broken Truck,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Broken Truck,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Broken Truck,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Broken Truck,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,1,Broken Truck,1
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Broken Truck,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Broken Truck,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Broken Truck,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,1,Broken Truck,1
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Broken Truck,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,1,Broken Truck,1
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Broken Truck,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Broken Truck,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Broken Truck,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Broken Truck,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,1,Broken Truck,1
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Broken Truck,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,1,Broken Truck,1
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Broken Truck,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Broken Truck,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Broken Truck,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,1,Broken Truck,1
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Broken Truck,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,1,Broken Truck,1
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,2,Broken Truck,1
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Broken Truck,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,1,Broken Truck,1
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,1,Broken Truck,1
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,5,Broken Truck,1
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,4,Broken Truck,1
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,1,Broken Truck,1
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Broken Truck,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Broken Truck,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Broken Truck,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,3,Broken Truck,1
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,1,Broken Truck,1
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,4,Broken Truck,1
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Broken Truck,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Broken Truck,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,1,Broken Truck,1
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,1,Broken Truck,1
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,1,Broken Truck,1
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,1,Broken Truck,1
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,4,Broken Truck,1
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,2,Broken Truck,1
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,1,Broken Truck,1
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,2,Broken Truck,1
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,1,Broken Truck,1
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,1,Broken Truck,1
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Broken Truck,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,1,Broken Truck,1
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,2,Broken Truck,1
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,1,Broken Truck,1
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Broken Truck,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,1,Broken Truck,1
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,4,Broken Truck,1
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,1,Broken Truck,1
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,2,Broken Truck,1
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,1,Broken Truck,1
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Broken Truck,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Broken Truck,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,1,Broken Truck,1
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,3,Broken Truck,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Broken Truck,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Broken Truck,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Broken Truck,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Broken Truck,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Broken Truck,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Broken Truck,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Broken Truck,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Broken Truck,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Broken Truck,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Broken Truck,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,1,Broken Truck,1
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,2,Broken Truck,1
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,1,Broken Truck,1
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,1,Broken Truck,1
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,2,Broken Truck,1
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,3,Broken Truck,1
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,2,Broken Truck,1
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,3,Broken Truck,1
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,1,Broken Truck,1
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,1,Broken Truck,1
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,1,Broken Truck,1
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,1,Broken Truck,1
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,1,Broken Truck,1
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,1,Broken Truck,1
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,1,Broken Truck,1
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Broken Truck,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,1,Broken Truck,1
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Broken Truck,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,3,Broken Truck,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Broken Truck,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Broken Truck,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,1,Broken Truck,1
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,1,Broken Truck,1
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,2,Broken Truck,1
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,2,Broken Truck,1
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,3,Broken Truck,1
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,2,Broken Truck,1
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,2,Broken Truck,1
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,1,Broken Truck,1
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,2,Broken Truck,1
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Broken Truck,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,1,Broken Truck,1
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,1,Broken Truck,1
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,2,Broken Truck,1
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Broken Truck,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,1,Broken Truck,1
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Broken Truck,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Broken Truck,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Broken Truck,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Broken Truck,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,1,Broken Truck,1
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Broken Truck,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Broken Truck,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Broken Truck,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,4,Broken Truck,1
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Broken Truck,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Vehicle excess,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Vehicle excess,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Vehicle excess,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Vehicle excess,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Vehicle excess,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Vehicle excess,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Vehicle excess,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Vehicle excess,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Vehicle excess,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Vehicle excess,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Vehicle excess,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Vehicle excess,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Vehicle excess,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Vehicle excess,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Vehicle excess,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Vehicle excess,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Vehicle excess,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Vehicle excess,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Vehicle excess,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Vehicle excess,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Vehicle excess,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Vehicle excess,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Vehicle excess,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Vehicle excess,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Vehicle excess,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Vehicle excess,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Vehicle excess,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Vehicle excess,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Vehicle excess,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Vehicle excess,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Vehicle excess,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Vehicle excess,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Vehicle excess,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Vehicle excess,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Vehicle excess,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Vehicle excess,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Vehicle excess,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Vehicle excess,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Vehicle excess,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Vehicle excess,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Vehicle excess,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Vehicle excess,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Vehicle excess,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Vehicle excess,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Vehicle excess,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Vehicle excess,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Vehicle excess,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Vehicle excess,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Vehicle excess,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Vehicle excess,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Vehicle excess,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Vehicle excess,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Vehicle excess,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Vehicle excess,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,1,Vehicle excess,1
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Vehicle excess,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Vehicle excess,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Vehicle excess,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Vehicle excess,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Vehicle excess,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Vehicle excess,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Vehicle excess,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Vehicle excess,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Vehicle excess,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Vehicle excess,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Vehicle excess,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Vehicle excess,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Vehicle excess,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Vehicle excess,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Vehicle excess,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Vehicle excess,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Vehicle excess,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Vehicle excess,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Vehicle excess,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Vehicle excess,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Vehicle excess,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Vehicle excess,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Vehicle excess,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Vehicle excess,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Vehicle excess,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Vehicle excess,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Vehicle excess,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Vehicle excess,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Vehicle excess,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Vehicle excess,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Vehicle excess,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Vehicle excess,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Vehicle excess,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Vehicle excess,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Vehicle excess,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Vehicle excess,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Vehicle excess,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Vehicle excess,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Vehicle excess,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Vehicle excess,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Vehicle excess,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Vehicle excess,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Vehicle excess,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Vehicle excess,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Vehicle excess,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Vehicle excess,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Vehicle excess,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Vehicle excess,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Vehicle excess,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Vehicle excess,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Vehicle excess,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Vehicle excess,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Vehicle excess,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Vehicle excess,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Vehicle excess,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Vehicle excess,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Vehicle excess,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Vehicle excess,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,1,Vehicle excess,1
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Vehicle excess,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Vehicle excess,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Vehicle excess,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Vehicle excess,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Vehicle excess,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,1,Vehicle excess,1
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Vehicle excess,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Vehicle excess,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Vehicle excess,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Vehicle excess,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Vehicle excess,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Vehicle excess,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Vehicle excess,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,1,Vehicle excess,1
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Vehicle excess,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Vehicle excess,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Vehicle excess,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Vehicle excess,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Vehicle excess,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Vehicle excess,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Vehicle excess,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Accident victim,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Accident victim,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Accident victim,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Accident victim,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Accident victim,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Accident victim,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Accident victim,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Accident victim,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Accident victim,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Accident victim,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Accident victim,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Accident victim,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Accident victim,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,1,Accident victim,1
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Accident victim,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Accident victim,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Accident victim,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Accident victim,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Accident victim,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Accident victim,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Accident victim,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Accident victim,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Accident victim,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Accident victim,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Accident victim,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,2,Accident victim,1
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Accident victim,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Accident victim,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Accident victim,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Accident victim,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Accident victim,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,1,Accident victim,1
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Accident victim,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Accident victim,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Accident victim,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,2,Accident victim,1
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Accident victim,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Accident victim,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Accident victim,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,1,Accident victim,1
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Accident victim,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Accident victim,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Accident victim,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,3,Accident victim,1
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Accident victim,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,2,Accident victim,1
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,2,Accident victim,1
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Accident victim,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Accident victim,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Accident victim,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,1,Accident victim,1
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,1,Accident victim,1
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,1,Accident victim,1
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Accident victim,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Accident victim,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Accident victim,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,1,Accident victim,1
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Accident victim,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Accident victim,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,1,Accident victim,1
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Accident victim,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Accident victim,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,2,Accident victim,1
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Accident victim,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Accident victim,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,1,Accident victim,1
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,2,Accident victim,1
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,3,Accident victim,1
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,1,Accident victim,1
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Accident victim,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,1,Accident victim,1
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,1,Accident victim,1
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,1,Accident victim,1
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,1,Accident victim,1
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Accident victim,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Accident victim,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Accident victim,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Accident victim,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,2,Accident victim,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Accident victim,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Accident victim,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Accident victim,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Accident victim,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Accident victim,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Accident victim,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Accident victim,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Accident victim,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Accident victim,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,1,Accident victim,1
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Accident victim,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Accident victim,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,1,Accident victim,1
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Accident victim,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,1,Accident victim,1
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Accident victim,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Accident victim,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,1,Accident victim,1
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,1,Accident victim,1
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Accident victim,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Accident victim,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Accident victim,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Accident victim,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,1,Accident victim,1
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Accident victim,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Accident victim,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Accident victim,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Accident victim,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,1,Accident victim,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,1,Accident victim,1
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Accident victim,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Accident victim,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,1,Accident victim,1
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Accident victim,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,1,Accident victim,1
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Accident victim,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,1,Accident victim,1
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Accident victim,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Accident victim,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Accident victim,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Accident victim,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Accident victim,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Accident victim,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,1,Accident victim,1
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,1,Accident victim,1
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,1,Accident victim,1
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,1,Accident victim,1
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,1,Accident victim,1
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,2,Accident victim,1
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Accident victim,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,1,Accident victim,1
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Accident victim,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,2,Accident victim,1
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,2,Accident victim,1
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Accident victim,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Accident victim,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Running over,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Running over,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Running over,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Running over,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Running over,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Running over,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Running over,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Running over,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Running over,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Running over,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Running over,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Running over,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Running over,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Running over,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Running over,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Running over,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Running over,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Running over,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Running over,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Running over,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Running over,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Running over,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Running over,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Running over,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Running over,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Running over,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,1,Running over,1
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Running over,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Running over,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Running over,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Running over,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Running over,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Running over,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Running over,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Running over,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Running over,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Running over,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Running over,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Running over,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Running over,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,1,Running over,1
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Running over,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Running over,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Running over,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Running over,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Running over,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Running over,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Running over,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Running over,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Running over,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,1,Running over,1
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Running over,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Running over,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Running over,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Running over,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Running over,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Running over,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,1,Running over,1
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Running over,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Running over,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Running over,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Running over,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Running over,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Running over,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Running over,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Running over,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Running over,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Running over,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Running over,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Running over,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Running over,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Running over,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,1,Running over,1
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,1,Running over,1
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Running over,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Running over,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Running over,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Running over,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Running over,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Running over,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Running over,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Running over,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Running over,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Running over,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Running over,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Running over,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Running over,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,1,Running over,1
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,1,Running over,1
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Running over,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,2,Running over,1
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Running over,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Running over,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Running over,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Running over,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Running over,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Running over,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Running over,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Running over,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Running over,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Running over,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Running over,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,1,Running over,1
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Running over,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Running over,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Running over,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Running over,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Running over,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Running over,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Running over,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Running over,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,1,Running over,1
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Running over,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Running over,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Running over,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,1,Running over,1
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,1,Running over,1
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Running over,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Running over,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Running over,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Running over,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Running over,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Running over,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Running over,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Running over,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,1,Running over,1
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Running over,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Running over,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Running over,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Running over,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,1,Running over,1
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Running over,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Running over,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Running over,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Running over,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Fire vehicles,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Fire vehicles,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Fire vehicles,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Fire vehicles,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Fire vehicles,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Fire vehicles,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Fire vehicles,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Fire vehicles,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Fire vehicles,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Fire vehicles,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Fire vehicles,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Fire vehicles,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Fire vehicles,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Fire vehicles,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Fire vehicles,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Fire vehicles,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Fire vehicles,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Fire vehicles,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Fire vehicles,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Fire vehicles,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Fire vehicles,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Fire vehicles,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Fire vehicles,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Fire vehicles,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Fire vehicles,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Fire vehicles,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Fire vehicles,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Fire vehicles,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Fire vehicles,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Fire vehicles,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Fire vehicles,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Fire vehicles,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Fire vehicles,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Fire vehicles,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Fire vehicles,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Fire vehicles,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Fire vehicles,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Fire vehicles,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Fire vehicles,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Fire vehicles,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Fire vehicles,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Fire vehicles,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Fire vehicles,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Fire vehicles,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Fire vehicles,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Fire vehicles,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Fire vehicles,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Fire vehicles,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Fire vehicles,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Fire vehicles,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Fire vehicles,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,1,Fire vehicles,1
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Fire vehicles,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Fire vehicles,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Fire vehicles,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Fire vehicles,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Fire vehicles,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Fire vehicles,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Fire vehicles,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Fire vehicles,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Fire vehicles,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Fire vehicles,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Fire vehicles,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Fire vehicles,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Fire vehicles,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Fire vehicles,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Fire vehicles,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Fire vehicles,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Fire vehicles,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Fire vehicles,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Fire vehicles,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Fire vehicles,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Fire vehicles,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Fire vehicles,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Fire vehicles,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Fire vehicles,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Fire vehicles,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Fire vehicles,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Fire vehicles,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Fire vehicles,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Fire vehicles,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Fire vehicles,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Fire vehicles,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Fire vehicles,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Fire vehicles,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Fire vehicles,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Fire vehicles,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Fire vehicles,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Fire vehicles,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Fire vehicles,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Fire vehicles,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Fire vehicles,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Fire vehicles,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Fire vehicles,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Fire vehicles,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Fire vehicles,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Fire vehicles,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Fire vehicles,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Fire vehicles,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Fire vehicles,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Fire vehicles,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Fire vehicles,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Fire vehicles,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Fire vehicles,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Fire vehicles,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Fire vehicles,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Fire vehicles,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Fire vehicles,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Fire vehicles,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Fire vehicles,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Fire vehicles,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Fire vehicles,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Fire vehicles,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Fire vehicles,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Fire vehicles,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Fire vehicles,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Fire vehicles,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Fire vehicles,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Fire vehicles,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Fire vehicles,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Fire vehicles,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Fire vehicles,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Fire vehicles,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Fire vehicles,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Fire vehicles,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Fire vehicles,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Fire vehicles,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Fire vehicles,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Fire vehicles,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Fire vehicles,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Fire vehicles,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Fire vehicles,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Fire vehicles,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Fire vehicles,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Fire vehicles,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Occurrence involving freight,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Occurrence involving freight,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Occurrence involving freight,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Occurrence involving freight,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Occurrence involving freight,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Occurrence involving freight,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Occurrence involving freight,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Occurrence involving freight,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Occurrence involving freight,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Occurrence involving freight,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Occurrence involving freight,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Occurrence involving freight,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Occurrence involving freight,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Occurrence involving freight,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Occurrence involving freight,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Occurrence involving freight,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Occurrence involving freight,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Occurrence involving freight,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Occurrence involving freight,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Occurrence involving freight,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Occurrence involving freight,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Occurrence involving freight,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Occurrence involving freight,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Occurrence involving freight,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Occurrence involving freight,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Occurrence involving freight,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Occurrence involving freight,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Occurrence involving freight,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Occurrence involving freight,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Occurrence involving freight,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Occurrence involving freight,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Occurrence involving freight,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Occurrence involving freight,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Occurrence involving freight,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Occurrence involving freight,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Occurrence involving freight,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Occurrence involving freight,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Occurrence involving freight,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Occurrence involving freight,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Occurrence involving freight,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Occurrence involving freight,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Occurrence involving freight,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Occurrence involving freight,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Occurrence involving freight,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Occurrence involving freight,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Occurrence involving freight,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Occurrence involving freight,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Occurrence involving freight,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Occurrence involving freight,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Occurrence involving freight,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Occurrence involving freight,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Occurrence involving freight,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Occurrence involving freight,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Occurrence involving freight,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Occurrence involving freight,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Occurrence involving freight,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Occurrence involving freight,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Occurrence involving freight,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Occurrence involving freight,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Occurrence involving freight,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Occurrence involving freight,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Occurrence involving freight,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Occurrence involving freight,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Occurrence involving freight,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Occurrence involving freight,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Occurrence involving freight,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Occurrence involving freight,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Occurrence involving freight,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Occurrence involving freight,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Occurrence involving freight,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Occurrence involving freight,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Occurrence involving freight,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Occurrence involving freight,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Occurrence involving freight,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Occurrence involving freight,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Occurrence involving freight,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Occurrence involving freight,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Occurrence involving freight,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Occurrence involving freight,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Occurrence involving freight,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Occurrence involving freight,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Occurrence involving freight,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Occurrence involving freight,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Occurrence involving freight,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Occurrence involving freight,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Occurrence involving freight,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Occurrence involving freight,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Occurrence involving freight,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Occurrence involving freight,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Occurrence involving freight,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Occurrence involving freight,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Occurrence involving freight,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Occurrence involving freight,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Occurrence involving freight,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Occurrence involving freight,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,1,Occurrence involving freight,1
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Occurrence involving freight,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Occurrence involving freight,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Occurrence involving freight,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Occurrence involving freight,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Occurrence involving freight,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Occurrence involving freight,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Occurrence involving freight,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Occurrence involving freight,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Occurrence involving freight,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Occurrence involving freight,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Occurrence involving freight,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Occurrence involving freight,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Occurrence involving freight,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Occurrence involving freight,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Occurrence involving freight,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Occurrence involving freight,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Occurrence involving freight,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Occurrence involving freight,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Occurrence involving freight,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Occurrence involving freight,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Occurrence involving freight,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Occurrence involving freight,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Occurrence involving freight,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Occurrence involving freight,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Occurrence involving freight,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Occurrence involving freight,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Occurrence involving freight,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Occurrence involving freight,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Occurrence involving freight,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Occurrence involving freight,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Occurrence involving freight,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Occurrence involving freight,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Occurrence involving freight,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Occurrence involving freight,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Occurrence involving freight,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Occurrence involving freight,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Occurrence involving freight,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Occurrence involving freight,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Occurrence involving freight,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Incident involving dangerous freight,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Incident involving dangerous freight,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Incident involving dangerous freight,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Incident involving dangerous freight,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Incident involving dangerous freight,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Incident involving dangerous freight,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Incident involving dangerous freight,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Incident involving dangerous freight,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Incident involving dangerous freight,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Incident involving dangerous freight,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Incident involving dangerous freight,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Incident involving dangerous freight,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Incident involving dangerous freight,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Incident involving dangerous freight,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Incident involving dangerous freight,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Incident involving dangerous freight,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Incident involving dangerous freight,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Incident involving dangerous freight,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Incident involving dangerous freight,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Incident involving dangerous freight,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Incident involving dangerous freight,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Incident involving dangerous freight,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Incident involving dangerous freight,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Incident involving dangerous freight,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Incident involving dangerous freight,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Incident involving dangerous freight,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Incident involving dangerous freight,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Incident involving dangerous freight,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Incident involving dangerous freight,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Incident involving dangerous freight,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Incident involving dangerous freight,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Incident involving dangerous freight,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Incident involving dangerous freight,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Incident involving dangerous freight,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Incident involving dangerous freight,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Incident involving dangerous freight,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Incident involving dangerous freight,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Incident involving dangerous freight,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Incident involving dangerous freight,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Incident involving dangerous freight,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Incident involving dangerous freight,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Incident involving dangerous freight,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Incident involving dangerous freight,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Incident involving dangerous freight,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Incident involving dangerous freight,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Incident involving dangerous freight,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Incident involving dangerous freight,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Incident involving dangerous freight,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Incident involving dangerous freight,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Incident involving dangerous freight,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Incident involving dangerous freight,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Incident involving dangerous freight,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Incident involving dangerous freight,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Incident involving dangerous freight,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Incident involving dangerous freight,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Incident involving dangerous freight,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Incident involving dangerous freight,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Incident involving dangerous freight,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Incident involving dangerous freight,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Incident involving dangerous freight,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Incident involving dangerous freight,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Incident involving dangerous freight,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Incident involving dangerous freight,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Incident involving dangerous freight,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Incident involving dangerous freight,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Incident involving dangerous freight,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Incident involving dangerous freight,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Incident involving dangerous freight,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Incident involving dangerous freight,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Incident involving dangerous freight,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Incident involving dangerous freight,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Incident involving dangerous freight,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Incident involving dangerous freight,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Incident involving dangerous freight,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Incident involving dangerous freight,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Incident involving dangerous freight,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Incident involving dangerous freight,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Incident involving dangerous freight,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Incident involving dangerous freight,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Incident involving dangerous freight,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Incident involving dangerous freight,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Incident involving dangerous freight,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Incident involving dangerous freight,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Incident involving dangerous freight,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Incident involving dangerous freight,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Incident involving dangerous freight,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Incident involving dangerous freight,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Incident involving dangerous freight,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Incident involving dangerous freight,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Incident involving dangerous freight,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Incident involving dangerous freight,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Incident involving dangerous freight,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Incident involving dangerous freight,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,1,Incident involving dangerous freight,1
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Incident involving dangerous freight,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Incident involving dangerous freight,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Incident involving dangerous freight,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Incident involving dangerous freight,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Incident involving dangerous freight,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Incident involving dangerous freight,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Incident involving dangerous freight,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Incident involving dangerous freight,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Incident involving dangerous freight,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Incident involving dangerous freight,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Incident involving dangerous freight,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Incident involving dangerous freight,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Incident involving dangerous freight,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Incident involving dangerous freight,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Incident involving dangerous freight,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Incident involving dangerous freight,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Incident involving dangerous freight,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Incident involving dangerous freight,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Incident involving dangerous freight,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Incident involving dangerous freight,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Incident involving dangerous freight,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Incident involving dangerous freight,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Incident involving dangerous freight,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Incident involving dangerous freight,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Incident involving dangerous freight,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Incident involving dangerous freight,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Incident involving dangerous freight,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Incident involving dangerous freight,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Incident involving dangerous freight,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Incident involving dangerous freight,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Incident involving dangerous freight,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Incident involving dangerous freight,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Incident involving dangerous freight,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Incident involving dangerous freight,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Incident involving dangerous freight,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Incident involving dangerous freight,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Incident involving dangerous freight,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Incident involving dangerous freight,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Incident involving dangerous freight,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Incident involving dangerous freight,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Incident involving dangerous freight,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Lack of electricity,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Lack of electricity,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Lack of electricity,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Lack of electricity,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Lack of electricity,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Lack of electricity,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Lack of electricity,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Lack of electricity,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Lack of electricity,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Lack of electricity,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Lack of electricity,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Lack of electricity,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Lack of electricity,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Lack of electricity,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Lack of electricity,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Lack of electricity,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Lack of electricity,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Lack of electricity,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Lack of electricity,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Lack of electricity,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Lack of electricity,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Lack of electricity,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Lack of electricity,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Lack of electricity,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Lack of electricity,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Lack of electricity,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Lack of electricity,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Lack of electricity,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Lack of electricity,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Lack of electricity,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Lack of electricity,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Lack of electricity,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Lack of electricity,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Lack of electricity,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Lack of electricity,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Lack of electricity,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Lack of electricity,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Lack of electricity,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Lack of electricity,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Lack of electricity,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Lack of electricity,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,1,Lack of electricity,1
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Lack of electricity,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Lack of electricity,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Lack of electricity,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Lack of electricity,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Lack of electricity,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Lack of electricity,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Lack of electricity,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Lack of electricity,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Lack of electricity,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Lack of electricity,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Lack of electricity,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Lack of electricity,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Lack of electricity,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Lack of electricity,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Lack of electricity,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Lack of electricity,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Lack of electricity,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Lack of electricity,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Lack of electricity,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,1,Lack of electricity,1
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Lack of electricity,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Lack of electricity,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Lack of electricity,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Lack of electricity,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Lack of electricity,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Lack of electricity,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Lack of electricity,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Lack of electricity,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Lack of electricity,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Lack of electricity,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Lack of electricity,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,1,Lack of electricity,1
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,1,Lack of electricity,1
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Lack of electricity,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Lack of electricity,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,2,Lack of electricity,1
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,4,Lack of electricity,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,3,Lack of electricity,1
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Lack of electricity,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Lack of electricity,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Lack of electricity,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Lack of electricity,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Lack of electricity,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Lack of electricity,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Lack of electricity,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Lack of electricity,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Lack of electricity,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Lack of electricity,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Lack of electricity,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Lack of electricity,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Lack of electricity,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Lack of electricity,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Lack of electricity,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Lack of electricity,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Lack of electricity,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,1,Lack of electricity,1
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Lack of electricity,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Lack of electricity,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Lack of electricity,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Lack of electricity,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Lack of electricity,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Lack of electricity,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Lack of electricity,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Lack of electricity,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Lack of electricity,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,1,Lack of electricity,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Lack of electricity,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Lack of electricity,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Lack of electricity,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Lack of electricity,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Lack of electricity,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Lack of electricity,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Lack of electricity,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Lack of electricity,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Lack of electricity,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Lack of electricity,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Lack of electricity,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Lack of electricity,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Lack of electricity,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Lack of electricity,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Lack of electricity,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,1,Lack of electricity,1
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Lack of electricity,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Lack of electricity,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Lack of electricity,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Lack of electricity,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Lack of electricity,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Lack of electricity,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Lack of electricity,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Lack of electricity,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Lack of electricity,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Lack of electricity,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Lack of electricity,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Fire,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Fire,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Fire,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Fire,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Fire,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Fire,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Fire,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Fire,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Fire,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Fire,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Fire,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Fire,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Fire,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Fire,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Fire,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Fire,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Fire,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Fire,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Fire,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Fire,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Fire,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Fire,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Fire,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Fire,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Fire,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Fire,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Fire,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Fire,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Fire,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Fire,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Fire,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Fire,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Fire,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Fire,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Fire,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Fire,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Fire,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Fire,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Fire,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Fire,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Fire,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Fire,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Fire,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Fire,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Fire,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Fire,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Fire,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Fire,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Fire,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Fire,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Fire,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Fire,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Fire,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Fire,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Fire,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Fire,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Fire,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Fire,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Fire,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Fire,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Fire,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Fire,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Fire,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,1,Fire,1
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Fire,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Fire,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Fire,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Fire,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Fire,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Fire,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Fire,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Fire,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Fire,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Fire,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Fire,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Fire,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Fire,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Fire,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Fire,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Fire,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Fire,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Fire,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Fire,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Fire,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Fire,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Fire,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Fire,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Fire,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Fire,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Fire,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Fire,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Fire,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Fire,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Fire,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Fire,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Fire,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Fire,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Fire,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Fire,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Fire,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Fire,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Fire,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Fire,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Fire,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Fire,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Fire,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Fire,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Fire,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Fire,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Fire,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Fire,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Fire,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Fire,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Fire,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Fire,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Fire,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Fire,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Fire,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Fire,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Fire,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Fire,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Fire,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Fire,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Fire,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Fire,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Fire,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Fire,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Fire,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Fire,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Fire,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Fire,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Fire,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Fire,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Fire,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Fire,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Point of flooding,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Point of flooding,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Point of flooding,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Point of flooding,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Point of flooding,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Point of flooding,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Point of flooding,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Point of flooding,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Point of flooding,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Point of flooding,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Point of flooding,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Point of flooding,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Point of flooding,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Point of flooding,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Point of flooding,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Point of flooding,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Point of flooding,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Point of flooding,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Point of flooding,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Point of flooding,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Point of flooding,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Point of flooding,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Point of flooding,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Point of flooding,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Point of flooding,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Point of flooding,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Point of flooding,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Point of flooding,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Point of flooding,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Point of flooding,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Point of flooding,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Point of flooding,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Point of flooding,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Point of flooding,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Point of flooding,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Point of flooding,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Point of flooding,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Point of flooding,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Point of flooding,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Point of flooding,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Point of flooding,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Point of flooding,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Point of flooding,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Point of flooding,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Point of flooding,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Point of flooding,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Point of flooding,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Point of flooding,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Point of flooding,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Point of flooding,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Point of flooding,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Point of flooding,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Point of flooding,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Point of flooding,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Point of flooding,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Point of flooding,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Point of flooding,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Point of flooding,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Point of flooding,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Point of flooding,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Point of flooding,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Point of flooding,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Point of flooding,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Point of flooding,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Point of flooding,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Point of flooding,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Point of flooding,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Point of flooding,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Point of flooding,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Point of flooding,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Point of flooding,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Point of flooding,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Point of flooding,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,1,Point of flooding,1
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Point of flooding,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Point of flooding,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,1,Point of flooding,1
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,3,Point of flooding,1
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,1,Point of flooding,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Point of flooding,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Point of flooding,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Point of flooding,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Point of flooding,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Point of flooding,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Point of flooding,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Point of flooding,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Point of flooding,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Point of flooding,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Point of flooding,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Point of flooding,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Point of flooding,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Point of flooding,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Point of flooding,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Point of flooding,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Point of flooding,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Point of flooding,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Point of flooding,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Point of flooding,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Point of flooding,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Point of flooding,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Point of flooding,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Point of flooding,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Point of flooding,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Point of flooding,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Point of flooding,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Point of flooding,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,3,Point of flooding,1
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,7,Point of flooding,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Point of flooding,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Point of flooding,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Point of flooding,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Point of flooding,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Point of flooding,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Point of flooding,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Point of flooding,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Point of flooding,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Point of flooding,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Point of flooding,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Point of flooding,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Point of flooding,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Point of flooding,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Point of flooding,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Point of flooding,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Point of flooding,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Point of flooding,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Point of flooding,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Point of flooding,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Point of flooding,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Point of flooding,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Point of flooding,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Point of flooding,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Point of flooding,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Point of flooding,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Point of flooding,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Point of flooding,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Manifestations,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Manifestations,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Manifestations,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Manifestations,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Manifestations,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Manifestations,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Manifestations,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Manifestations,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Manifestations,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Manifestations,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Manifestations,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Manifestations,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Manifestations,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Manifestations,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Manifestations,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Manifestations,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Manifestations,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Manifestations,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Manifestations,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Manifestations,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Manifestations,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Manifestations,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Manifestations,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Manifestations,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Manifestations,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Manifestations,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Manifestations,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Manifestations,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Manifestations,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Manifestations,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Manifestations,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Manifestations,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Manifestations,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Manifestations,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Manifestations,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Manifestations,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Manifestations,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Manifestations,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Manifestations,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Manifestations,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Manifestations,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Manifestations,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Manifestations,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Manifestations,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Manifestations,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Manifestations,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Manifestations,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Manifestations,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Manifestations,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Manifestations,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Manifestations,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Manifestations,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Manifestations,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Manifestations,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Manifestations,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Manifestations,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Manifestations,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Manifestations,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,1,Manifestations,1
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Manifestations,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Manifestations,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Manifestations,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Manifestations,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Manifestations,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Manifestations,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Manifestations,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Manifestations,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Manifestations,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Manifestations,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Manifestations,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Manifestations,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Manifestations,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Manifestations,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Manifestations,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Manifestations,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Manifestations,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Manifestations,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Manifestations,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Manifestations,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Manifestations,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Manifestations,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,1,Manifestations,1
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Manifestations,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Manifestations,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Manifestations,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Manifestations,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Manifestations,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,1,Manifestations,1
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Manifestations,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Manifestations,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Manifestations,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Manifestations,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Manifestations,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,1,Manifestations,1
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Manifestations,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,1,Manifestations,1
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Manifestations,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Manifestations,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Manifestations,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Manifestations,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Manifestations,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Manifestations,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Manifestations,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Manifestations,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Manifestations,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Manifestations,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,1,Manifestations,1
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Manifestations,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Manifestations,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Manifestations,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Manifestations,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Manifestations,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Manifestations,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Manifestations,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Manifestations,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Manifestations,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Manifestations,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Manifestations,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Manifestations,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Manifestations,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Manifestations,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Manifestations,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Manifestations,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Manifestations,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Manifestations,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Manifestations,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Manifestations,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Manifestations,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Manifestations,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Manifestations,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Manifestations,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Manifestations,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Manifestations,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,1,Manifestations,1
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Manifestations,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Defect in the network of trolleybuses,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Defect in the network of trolleybuses,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Defect in the network of trolleybuses,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Defect in the network of trolleybuses,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Defect in the network of trolleybuses,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Defect in the network of trolleybuses,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Defect in the network of trolleybuses,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Defect in the network of trolleybuses,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Defect in the network of trolleybuses,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Defect in the network of trolleybuses,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Defect in the network of trolleybuses,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Defect in the network of trolleybuses,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Defect in the network of trolleybuses,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Defect in the network of trolleybuses,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Defect in the network of trolleybuses,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Defect in the network of trolleybuses,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Defect in the network of trolleybuses,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Defect in the network of trolleybuses,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Defect in the network of trolleybuses,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Defect in the network of trolleybuses,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Defect in the network of trolleybuses,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Defect in the network of trolleybuses,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Defect in the network of trolleybuses,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Defect in the network of trolleybuses,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Defect in the network of trolleybuses,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Defect in the network of trolleybuses,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Defect in the network of trolleybuses,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,1,Defect in the network of trolleybuses,1
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Defect in the network of trolleybuses,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Defect in the network of trolleybuses,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Defect in the network of trolleybuses,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Defect in the network of trolleybuses,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Defect in the network of trolleybuses,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Defect in the network of trolleybuses,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Defect in the network of trolleybuses,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,1,Defect in the network of trolleybuses,1
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Defect in the network of trolleybuses,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Defect in the network of trolleybuses,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Defect in the network of trolleybuses,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Defect in the network of trolleybuses,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Defect in the network of trolleybuses,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Defect in the network of trolleybuses,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Defect in the network of trolleybuses,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Defect in the network of trolleybuses,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,1,Defect in the network of trolleybuses,1
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Defect in the network of trolleybuses,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Defect in the network of trolleybuses,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Defect in the network of trolleybuses,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Defect in the network of trolleybuses,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Defect in the network of trolleybuses,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Defect in the network of trolleybuses,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Defect in the network of trolleybuses,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Defect in the network of trolleybuses,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Defect in the network of trolleybuses,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Defect in the network of trolleybuses,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Defect in the network of trolleybuses,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Defect in the network of trolleybuses,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Defect in the network of trolleybuses,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Defect in the network of trolleybuses,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Defect in the network of trolleybuses,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Defect in the network of trolleybuses,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Defect in the network of trolleybuses,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Defect in the network of trolleybuses,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Defect in the network of trolleybuses,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Defect in the network of trolleybuses,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Defect in the network of trolleybuses,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Defect in the network of trolleybuses,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,1,Defect in the network of trolleybuses,1
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Defect in the network of trolleybuses,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Defect in the network of trolleybuses,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Defect in the network of trolleybuses,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,1,Defect in the network of trolleybuses,1
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Defect in the network of trolleybuses,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Defect in the network of trolleybuses,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Defect in the network of trolleybuses,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Defect in the network of trolleybuses,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Defect in the network of trolleybuses,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Defect in the network of trolleybuses,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Defect in the network of trolleybuses,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Defect in the network of trolleybuses,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Defect in the network of trolleybuses,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,3,Defect in the network of trolleybuses,1
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,1,Defect in the network of trolleybuses,1
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Defect in the network of trolleybuses,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Defect in the network of trolleybuses,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Defect in the network of trolleybuses,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Defect in the network of trolleybuses,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Defect in the network of trolleybuses,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Defect in the network of trolleybuses,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Defect in the network of trolleybuses,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,1,Defect in the network of trolleybuses,1
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Defect in the network of trolleybuses,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Defect in the network of trolleybuses,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Defect in the network of trolleybuses,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Defect in the network of trolleybuses,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Defect in the network of trolleybuses,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Defect in the network of trolleybuses,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Defect in the network of trolleybuses,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,1,Defect in the network of trolleybuses,1
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Defect in the network of trolleybuses,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,1,Defect in the network of trolleybuses,1
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Defect in the network of trolleybuses,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Defect in the network of trolleybuses,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Defect in the network of trolleybuses,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Defect in the network of trolleybuses,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Defect in the network of trolleybuses,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Defect in the network of trolleybuses,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,2,Defect in the network of trolleybuses,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,8,Defect in the network of trolleybuses,1
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,1,Defect in the network of trolleybuses,1
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Defect in the network of trolleybuses,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,1,Defect in the network of trolleybuses,1
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,2,Defect in the network of trolleybuses,1
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,1,Defect in the network of trolleybuses,1
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Defect in the network of trolleybuses,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Defect in the network of trolleybuses,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Defect in the network of trolleybuses,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Defect in the network of trolleybuses,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Defect in the network of trolleybuses,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Defect in the network of trolleybuses,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,1,Defect in the network of trolleybuses,1
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,1,Defect in the network of trolleybuses,1
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,1,Defect in the network of trolleybuses,1
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Defect in the network of trolleybuses,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Defect in the network of trolleybuses,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Defect in the network of trolleybuses,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Defect in the network of trolleybuses,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Defect in the network of trolleybuses,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Defect in the network of trolleybuses,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Defect in the network of trolleybuses,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,1,Defect in the network of trolleybuses,1
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Defect in the network of trolleybuses,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Defect in the network of trolleybuses,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Defect in the network of trolleybuses,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Defect in the network of trolleybuses,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Tree on the road,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Tree on the road,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Tree on the road,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Tree on the road,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Tree on the road,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Tree on the road,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Tree on the road,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Tree on the road,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Tree on the road,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Tree on the road,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Tree on the road,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Tree on the road,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Tree on the road,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Tree on the road,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Tree on the road,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Tree on the road,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Tree on the road,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Tree on the road,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Tree on the road,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Tree on the road,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Tree on the road,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Tree on the road,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Tree on the road,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Tree on the road,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,1,Tree on the road,1
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Tree on the road,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Tree on the road,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,1,Tree on the road,1
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Tree on the road,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Tree on the road,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Tree on the road,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Tree on the road,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Tree on the road,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Tree on the road,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Tree on the road,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Tree on the road,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Tree on the road,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Tree on the road,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Tree on the road,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Tree on the road,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Tree on the road,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Tree on the road,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Tree on the road,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Tree on the road,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Tree on the road,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Tree on the road,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Tree on the road,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Tree on the road,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Tree on the road,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Tree on the road,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Tree on the road,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Tree on the road,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Tree on the road,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Tree on the road,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Tree on the road,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Tree on the road,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Tree on the road,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Tree on the road,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,1,Tree on the road,1
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Tree on the road,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Tree on the road,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Tree on the road,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Tree on the road,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Tree on the road,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Tree on the road,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Tree on the road,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Tree on the road,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Tree on the road,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Tree on the road,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Tree on the road,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Tree on the road,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Tree on the road,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Tree on the road,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Tree on the road,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Tree on the road,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Tree on the road,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Tree on the road,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Tree on the road,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Tree on the road,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Tree on the road,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Tree on the road,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Tree on the road,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Tree on the road,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Tree on the road,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Tree on the road,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Tree on the road,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Tree on the road,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Tree on the road,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,1,Tree on the road,1
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Tree on the road,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Tree on the road,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Tree on the road,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Tree on the road,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Tree on the road,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Tree on the road,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Tree on the road,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Tree on the road,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Tree on the road,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Tree on the road,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,1,Tree on the road,1
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Tree on the road,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Tree on the road,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Tree on the road,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Tree on the road,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Tree on the road,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Tree on the road,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Tree on the road,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Tree on the road,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Tree on the road,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Tree on the road,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Tree on the road,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Tree on the road,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,1,Tree on the road,1
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Tree on the road,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Tree on the road,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Tree on the road,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Tree on the road,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Tree on the road,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Tree on the road,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Tree on the road,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Tree on the road,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Tree on the road,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Tree on the road,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Tree on the road,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Tree on the road,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Tree on the road,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Tree on the road,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Tree on the road,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Tree on the road,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Tree on the road,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Tree on the road,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Tree on the road,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Tree on the road,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Tree on the road,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Tree on the road,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Semaphore off,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Semaphore off,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Semaphore off,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Semaphore off,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Semaphore off,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Semaphore off,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Semaphore off,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Semaphore off,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Semaphore off,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Semaphore off,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Semaphore off,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Semaphore off,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Semaphore off,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Semaphore off,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Semaphore off,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Semaphore off,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Semaphore off,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Semaphore off,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Semaphore off,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Semaphore off,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Semaphore off,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Semaphore off,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Semaphore off,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Semaphore off,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Semaphore off,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Semaphore off,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Semaphore off,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Semaphore off,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Semaphore off,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Semaphore off,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Semaphore off,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Semaphore off,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Semaphore off,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,1,Semaphore off,1
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Semaphore off,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Semaphore off,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Semaphore off,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Semaphore off,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Semaphore off,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Semaphore off,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Semaphore off,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Semaphore off,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Semaphore off,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Semaphore off,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Semaphore off,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Semaphore off,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Semaphore off,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Semaphore off,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Semaphore off,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Semaphore off,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Semaphore off,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Semaphore off,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Semaphore off,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Semaphore off,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Semaphore off,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Semaphore off,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Semaphore off,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,0,Semaphore off,0
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Semaphore off,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Semaphore off,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,1,Semaphore off,1
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Semaphore off,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Semaphore off,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Semaphore off,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Semaphore off,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Semaphore off,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Semaphore off,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Semaphore off,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Semaphore off,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Semaphore off,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Semaphore off,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Semaphore off,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Semaphore off,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Semaphore off,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,2,Semaphore off,1
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,1,Semaphore off,1
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Semaphore off,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,1,Semaphore off,1
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,4,Semaphore off,1
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Semaphore off,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Semaphore off,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Semaphore off,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Semaphore off,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,0,Semaphore off,0
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Semaphore off,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Semaphore off,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Semaphore off,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Semaphore off,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Semaphore off,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Semaphore off,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Semaphore off,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Semaphore off,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Semaphore off,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Semaphore off,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Semaphore off,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,1,Semaphore off,1
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Semaphore off,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Semaphore off,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Semaphore off,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Semaphore off,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Semaphore off,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Semaphore off,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Semaphore off,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Semaphore off,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Semaphore off,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Semaphore off,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Semaphore off,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,1,Semaphore off,1
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,1,Semaphore off,1
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Semaphore off,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Semaphore off,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Semaphore off,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Semaphore off,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Semaphore off,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Semaphore off,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Semaphore off,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Semaphore off,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Semaphore off,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Semaphore off,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Semaphore off,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Semaphore off,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Semaphore off,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,1,Semaphore off,1
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Semaphore off,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Semaphore off,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Semaphore off,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,1,Semaphore off,1
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Semaphore off,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Semaphore off,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,1,Semaphore off,1
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Semaphore off,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Semaphore off,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Semaphore off,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,1,Semaphore off,1
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Semaphore off,0
+1,Monday,1,07:00,1,Morning (07:00-09:30),4.1,0,Intermittent Semaphore,0
+2,Monday,1,07:30,2,Morning (07:00-09:30),6.6,0,Intermittent Semaphore,0
+3,Monday,1,08:00,3,Morning (07:00-09:30),8.7,0,Intermittent Semaphore,0
+4,Monday,1,08:30,4,Morning (07:00-09:30),9.2,0,Intermittent Semaphore,0
+5,Monday,1,09:00,5,Morning (07:00-09:30),11.1,0,Intermittent Semaphore,0
+6,Monday,1,09:30,6,Morning (07:00-09:30),10.9,0,Intermittent Semaphore,0
+7,Monday,1,10:00,7,Midday (10:00-16:00),8.3,0,Intermittent Semaphore,0
+8,Monday,1,10:30,8,Midday (10:00-16:00),8.2,0,Intermittent Semaphore,0
+9,Monday,1,11:00,9,Midday (10:00-16:00),7.6,0,Intermittent Semaphore,0
+10,Monday,1,11:30,10,Midday (10:00-16:00),6.4,0,Intermittent Semaphore,0
+11,Monday,1,12:00,11,Midday (10:00-16:00),5.2,0,Intermittent Semaphore,0
+12,Monday,1,12:30,12,Midday (10:00-16:00),4.7,0,Intermittent Semaphore,0
+13,Monday,1,13:00,13,Midday (10:00-16:00),4.8,0,Intermittent Semaphore,0
+14,Monday,1,13:30,14,Midday (10:00-16:00),4.9,0,Intermittent Semaphore,0
+15,Monday,1,14:00,15,Midday (10:00-16:00),5.1,0,Intermittent Semaphore,0
+16,Monday,1,14:30,16,Midday (10:00-16:00),5.3,0,Intermittent Semaphore,0
+17,Monday,1,15:00,17,Midday (10:00-16:00),6.9,0,Intermittent Semaphore,0
+18,Monday,1,15:30,18,Midday (10:00-16:00),5.1,0,Intermittent Semaphore,0
+19,Monday,1,16:00,19,Midday (10:00-16:00),6.7,0,Intermittent Semaphore,0
+20,Monday,1,16:30,20,Evening peak (16:30-20:00),8.1,0,Intermittent Semaphore,0
+21,Monday,1,17:00,21,Evening peak (16:30-20:00),9.5,0,Intermittent Semaphore,0
+22,Monday,1,17:30,22,Evening peak (16:30-20:00),9.4,0,Intermittent Semaphore,0
+23,Monday,1,18:00,23,Evening peak (16:30-20:00),9.9,0,Intermittent Semaphore,0
+24,Monday,1,18:30,24,Evening peak (16:30-20:00),11.2,0,Intermittent Semaphore,0
+25,Monday,1,19:00,25,Evening peak (16:30-20:00),11.8,0,Intermittent Semaphore,0
+26,Monday,1,19:30,26,Evening peak (16:30-20:00),11.4,0,Intermittent Semaphore,0
+27,Monday,1,20:00,27,Evening peak (16:30-20:00),7.4,0,Intermittent Semaphore,0
+28,Tuesday,2,07:00,1,Morning (07:00-09:30),4.9,0,Intermittent Semaphore,0
+29,Tuesday,2,07:30,2,Morning (07:00-09:30),6.3,0,Intermittent Semaphore,0
+30,Tuesday,2,08:00,3,Morning (07:00-09:30),8.0,0,Intermittent Semaphore,0
+31,Tuesday,2,08:30,4,Morning (07:00-09:30),9.5,0,Intermittent Semaphore,0
+32,Tuesday,2,09:00,5,Morning (07:00-09:30),10.3,0,Intermittent Semaphore,0
+33,Tuesday,2,09:30,6,Morning (07:00-09:30),9.5,0,Intermittent Semaphore,0
+34,Tuesday,2,10:00,7,Midday (10:00-16:00),7.9,0,Intermittent Semaphore,0
+35,Tuesday,2,10:30,8,Midday (10:00-16:00),7.7,0,Intermittent Semaphore,0
+36,Tuesday,2,11:00,9,Midday (10:00-16:00),8.3,0,Intermittent Semaphore,0
+37,Tuesday,2,11:30,10,Midday (10:00-16:00),8.5,0,Intermittent Semaphore,0
+38,Tuesday,2,12:00,11,Midday (10:00-16:00),8.5,0,Intermittent Semaphore,0
+39,Tuesday,2,12:30,12,Midday (10:00-16:00),7.4,0,Intermittent Semaphore,0
+40,Tuesday,2,13:00,13,Midday (10:00-16:00),8.7,0,Intermittent Semaphore,0
+41,Tuesday,2,13:30,14,Midday (10:00-16:00),7.8,0,Intermittent Semaphore,0
+42,Tuesday,2,14:00,15,Midday (10:00-16:00),8.1,0,Intermittent Semaphore,0
+43,Tuesday,2,14:30,16,Midday (10:00-16:00),8.3,0,Intermittent Semaphore,0
+44,Tuesday,2,15:00,17,Midday (10:00-16:00),8.3,0,Intermittent Semaphore,0
+45,Tuesday,2,15:30,18,Midday (10:00-16:00),8.4,0,Intermittent Semaphore,0
+46,Tuesday,2,16:00,19,Midday (10:00-16:00),9.3,0,Intermittent Semaphore,0
+47,Tuesday,2,16:30,20,Evening peak (16:30-20:00),11.0,0,Intermittent Semaphore,0
+48,Tuesday,2,17:00,21,Evening peak (16:30-20:00),12.1,0,Intermittent Semaphore,0
+49,Tuesday,2,17:30,22,Evening peak (16:30-20:00),13.1,0,Intermittent Semaphore,0
+50,Tuesday,2,18:00,23,Evening peak (16:30-20:00),13.7,0,Intermittent Semaphore,0
+51,Tuesday,2,18:30,24,Evening peak (16:30-20:00),15.3,0,Intermittent Semaphore,0
+52,Tuesday,2,19:00,25,Evening peak (16:30-20:00),16.8,0,Intermittent Semaphore,0
+53,Tuesday,2,19:30,26,Evening peak (16:30-20:00),15.6,0,Intermittent Semaphore,0
+54,Tuesday,2,20:00,27,Evening peak (16:30-20:00),11.0,0,Intermittent Semaphore,0
+55,Wednesday,3,07:00,1,Morning (07:00-09:30),3.4,0,Intermittent Semaphore,0
+56,Wednesday,3,07:30,2,Morning (07:00-09:30),3.8,0,Intermittent Semaphore,0
+57,Wednesday,3,08:00,3,Morning (07:00-09:30),5.3,0,Intermittent Semaphore,0
+58,Wednesday,3,08:30,4,Morning (07:00-09:30),5.9,1,Intermittent Semaphore,1
+59,Wednesday,3,09:00,5,Morning (07:00-09:30),7.0,0,Intermittent Semaphore,0
+60,Wednesday,3,09:30,6,Morning (07:00-09:30),7.4,0,Intermittent Semaphore,0
+61,Wednesday,3,10:00,7,Midday (10:00-16:00),6.2,0,Intermittent Semaphore,0
+62,Wednesday,3,10:30,8,Midday (10:00-16:00),6.5,0,Intermittent Semaphore,0
+63,Wednesday,3,11:00,9,Midday (10:00-16:00),6.7,0,Intermittent Semaphore,0
+64,Wednesday,3,11:30,10,Midday (10:00-16:00),7.7,0,Intermittent Semaphore,0
+65,Wednesday,3,12:00,11,Midday (10:00-16:00),8.7,0,Intermittent Semaphore,0
+66,Wednesday,3,12:30,12,Midday (10:00-16:00),8.2,0,Intermittent Semaphore,0
+67,Wednesday,3,13:00,13,Midday (10:00-16:00),8.0,0,Intermittent Semaphore,0
+68,Wednesday,3,13:30,14,Midday (10:00-16:00),6.2,0,Intermittent Semaphore,0
+69,Wednesday,3,14:00,15,Midday (10:00-16:00),6.8,0,Intermittent Semaphore,0
+70,Wednesday,3,14:30,16,Midday (10:00-16:00),8.0,0,Intermittent Semaphore,0
+71,Wednesday,3,15:00,17,Midday (10:00-16:00),9.2,0,Intermittent Semaphore,0
+72,Wednesday,3,15:30,18,Midday (10:00-16:00),10.1,0,Intermittent Semaphore,0
+73,Wednesday,3,16:00,19,Midday (10:00-16:00),12.2,0,Intermittent Semaphore,0
+74,Wednesday,3,16:30,20,Evening peak (16:30-20:00),13.9,0,Intermittent Semaphore,0
+75,Wednesday,3,17:00,21,Evening peak (16:30-20:00),15.0,0,Intermittent Semaphore,0
+76,Wednesday,3,17:30,22,Evening peak (16:30-20:00),17.1,0,Intermittent Semaphore,0
+77,Wednesday,3,18:00,23,Evening peak (16:30-20:00),19.6,0,Intermittent Semaphore,0
+78,Wednesday,3,18:30,24,Evening peak (16:30-20:00),20.2,0,Intermittent Semaphore,0
+79,Wednesday,3,19:00,25,Evening peak (16:30-20:00),22.6,0,Intermittent Semaphore,0
+80,Wednesday,3,19:30,26,Evening peak (16:30-20:00),23.4,0,Intermittent Semaphore,0
+81,Wednesday,3,20:00,27,Evening peak (16:30-20:00),19.3,0,Intermittent Semaphore,0
+82,Thursday,4,07:00,1,Morning (07:00-09:30),4.0,0,Intermittent Semaphore,0
+83,Thursday,4,07:30,2,Morning (07:00-09:30),5.0,0,Intermittent Semaphore,0
+84,Thursday,4,08:00,3,Morning (07:00-09:30),5.7,1,Intermittent Semaphore,1
+85,Thursday,4,08:30,4,Morning (07:00-09:30),5.6,0,Intermittent Semaphore,0
+86,Thursday,4,09:00,5,Morning (07:00-09:30),8.5,0,Intermittent Semaphore,0
+87,Thursday,4,09:30,6,Morning (07:00-09:30),7.6,0,Intermittent Semaphore,0
+88,Thursday,4,10:00,7,Midday (10:00-16:00),7.6,0,Intermittent Semaphore,0
+89,Thursday,4,10:30,8,Midday (10:00-16:00),6.6,0,Intermittent Semaphore,0
+90,Thursday,4,11:00,9,Midday (10:00-16:00),7.4,0,Intermittent Semaphore,0
+91,Thursday,4,11:30,10,Midday (10:00-16:00),7.7,0,Intermittent Semaphore,0
+92,Thursday,4,12:00,11,Midday (10:00-16:00),7.7,0,Intermittent Semaphore,0
+93,Thursday,4,12:30,12,Midday (10:00-16:00),7.9,0,Intermittent Semaphore,0
+94,Thursday,4,13:00,13,Midday (10:00-16:00),10.1,0,Intermittent Semaphore,0
+95,Thursday,4,13:30,14,Midday (10:00-16:00),10.8,0,Intermittent Semaphore,0
+96,Thursday,4,14:00,15,Midday (10:00-16:00),11.4,0,Intermittent Semaphore,0
+97,Thursday,4,14:30,16,Midday (10:00-16:00),12.5,0,Intermittent Semaphore,0
+98,Thursday,4,15:00,17,Midday (10:00-16:00),12.1,0,Intermittent Semaphore,0
+99,Thursday,4,15:30,18,Midday (10:00-16:00),10.5,0,Intermittent Semaphore,0
+100,Thursday,4,16:00,19,Midday (10:00-16:00),9.9,0,Intermittent Semaphore,0
+101,Thursday,4,16:30,20,Evening peak (16:30-20:00),11.1,0,Intermittent Semaphore,0
+102,Thursday,4,17:00,21,Evening peak (16:30-20:00),12.1,0,Intermittent Semaphore,0
+103,Thursday,4,17:30,22,Evening peak (16:30-20:00),13.7,0,Intermittent Semaphore,0
+104,Thursday,4,18:00,23,Evening peak (16:30-20:00),15.6,0,Intermittent Semaphore,0
+105,Thursday,4,18:30,24,Evening peak (16:30-20:00),18.3,0,Intermittent Semaphore,0
+106,Thursday,4,19:00,25,Evening peak (16:30-20:00),19.9,0,Intermittent Semaphore,0
+107,Thursday,4,19:30,26,Evening peak (16:30-20:00),21.5,0,Intermittent Semaphore,0
+108,Thursday,4,20:00,27,Evening peak (16:30-20:00),22.1,0,Intermittent Semaphore,0
+109,Friday,5,07:00,1,Morning (07:00-09:30),3.4,0,Intermittent Semaphore,0
+110,Friday,5,07:30,2,Morning (07:00-09:30),5.0,0,Intermittent Semaphore,0
+111,Friday,5,08:00,3,Morning (07:00-09:30),5.5,0,Intermittent Semaphore,0
+112,Friday,5,08:30,4,Morning (07:00-09:30),6.4,0,Intermittent Semaphore,0
+113,Friday,5,09:00,5,Morning (07:00-09:30),8.2,0,Intermittent Semaphore,0
+114,Friday,5,09:30,6,Morning (07:00-09:30),9.0,0,Intermittent Semaphore,0
+115,Friday,5,10:00,7,Midday (10:00-16:00),10.1,0,Intermittent Semaphore,0
+116,Friday,5,10:30,8,Midday (10:00-16:00),10.3,0,Intermittent Semaphore,0
+117,Friday,5,11:00,9,Midday (10:00-16:00),10.9,0,Intermittent Semaphore,0
+118,Friday,5,11:30,10,Midday (10:00-16:00),12.3,0,Intermittent Semaphore,0
+119,Friday,5,12:00,11,Midday (10:00-16:00),11.9,0,Intermittent Semaphore,0
+120,Friday,5,12:30,12,Midday (10:00-16:00),10.3,0,Intermittent Semaphore,0
+121,Friday,5,13:00,13,Midday (10:00-16:00),11.0,0,Intermittent Semaphore,0
+122,Friday,5,13:30,14,Midday (10:00-16:00),9.7,0,Intermittent Semaphore,0
+123,Friday,5,14:00,15,Midday (10:00-16:00),10.3,0,Intermittent Semaphore,0
+124,Friday,5,14:30,16,Midday (10:00-16:00),10.9,0,Intermittent Semaphore,0
+125,Friday,5,15:00,17,Midday (10:00-16:00),8.9,0,Intermittent Semaphore,0
+126,Friday,5,15:30,18,Midday (10:00-16:00),9.4,0,Intermittent Semaphore,0
+127,Friday,5,16:00,19,Midday (10:00-16:00),11.3,0,Intermittent Semaphore,0
+128,Friday,5,16:30,20,Evening peak (16:30-20:00),13.0,0,Intermittent Semaphore,0
+129,Friday,5,17:00,21,Evening peak (16:30-20:00),14.6,0,Intermittent Semaphore,0
+130,Friday,5,17:30,22,Evening peak (16:30-20:00),17.4,0,Intermittent Semaphore,0
+131,Friday,5,18:00,23,Evening peak (16:30-20:00),17.8,0,Intermittent Semaphore,0
+132,Friday,5,18:30,24,Evening peak (16:30-20:00),18.1,0,Intermittent Semaphore,0
+133,Friday,5,19:00,25,Evening peak (16:30-20:00),17.7,0,Intermittent Semaphore,0
+134,Friday,5,19:30,26,Evening peak (16:30-20:00),17.4,0,Intermittent Semaphore,0
+135,Friday,5,20:00,27,Evening peak (16:30-20:00),12.1,0,Intermittent Semaphore,0

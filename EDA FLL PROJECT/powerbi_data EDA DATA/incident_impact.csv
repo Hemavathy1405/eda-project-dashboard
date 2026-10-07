@@ -1,0 +1,17 @@
+﻿Impact_Rank,Incident,Incident_Col,Obs_With,Obs_Without,Pct_Obs_With,Total_Events,Avg_Slowness_With,Avg_Slowness_Without,Impact_Points,Correlation,P_Value
+1,Point of flooding,Point_of_flooding,6,129,4.4,16,19.98,9.59,10.39,0.42,0.0001
+2,Fire vehicles,Fire_vehicles,1,134,0.7,1,16.8,10.0,6.8,0.134,
+3,Lack of electricity,Lack_of_electricity,10,125,7.4,16,15.48,9.62,5.86,0.437,0.0029
+4,Semaphore off,Semaphore_off,13,122,9.6,17,14.02,9.63,4.39,0.347,0.0096
+5,Immobilized bus,Immobilized_bus,35,100,25.9,46,11.36,9.59,1.77,0.101,0.0479
+6,Occurrence involving freight,Occurrence_involving_freight,1,134,0.7,1,11.4,10.04,1.36,0.027,
+7,Manifestations,Manifestations,7,128,5.2,7,11.29,9.98,1.3,0.066,0.732
+8,Accident victim,Accident_victim,43,92,31.9,57,10.87,9.67,1.2,0.122,0.0641
+9,Broken Truck,Broken_Truck,71,64,52.6,118,10.29,9.78,0.51,0.132,0.2574
+10,Running over,Running_over,15,120,11.1,16,10.19,10.03,0.16,-0.001,0.801
+11,Incident involving dangerous freight,Incident_involving_dangerous_freight,1,134,0.7,1,10.1,10.05,0.05,0.001,
+12,Vehicle excess,Vehicle_excess,4,131,3.0,4,8.93,10.09,-1.16,-0.045,0.9225
+13,Defect in the network of trolleybuses,Defect_in_the_network_of_trolleybuses,20,115,14.8,31,8.96,10.24,-1.29,-0.147,0.172
+14,Tree on the road,Tree_on_the_road,6,129,4.4,6,8.07,10.14,-2.08,-0.098,0.2622
+15,Fire,Fire,1,134,0.7,1,7.7,10.07,-2.37,-0.047,
+16,Intermittent Semaphore,Intermittent_Semaphore,2,133,1.5,2,5.8,10.12,-4.32,-0.12,

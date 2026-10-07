@@ -1,0 +1,13 @@
+KPI,Value,Page
+Avg Slowness %,10.05,Overview
+Median Slowness %,9.0,Overview
+Min Slowness %,3.4,Overview
+Max Slowness %,23.4,Overview
+Total Incident Events,340.0,Overview
+High Risk Slots,44.0,Overview
+Medium Risk Slots,44.0,Overview
+Low Risk Slots,47.0,Overview
+Outlier Slots,8.0,Overview
+Peak Hour Avg %,11.52,Overview
+Off Peak Avg %,8.47,Overview
+Observations,135.0,Overview

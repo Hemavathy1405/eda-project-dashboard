@@ -1,0 +1,9 @@
+﻿Feature,Coefficient,Max_Value
+Intercept,6.88257,
+Hour_code,-0.05201,27.0
+Hour_code_sq,0.01404,729.0
+Lack_of_electricity,1.37327,4.0
+Point_of_flooding,1.01772,7.0
+Semaphore_off,0.82939,4.0
+Defect_in_the_network_of_trolleybuses,-0.48546,8.0
+Fire_vehicles,2.44422,1.0

@@ -1,0 +1,16 @@
+Risk_Level,Weekday,Weekday_Num,Slots
+High,Friday,5,12
+High,Monday,1,4
+High,Thursday,4,11
+High,Tuesday,2,8
+High,Wednesday,3,9
+Low,Friday,5,4
+Low,Monday,1,14
+Low,Thursday,4,11
+Low,Tuesday,2,6
+Low,Wednesday,3,12
+Medium,Friday,5,11
+Medium,Monday,1,9
+Medium,Thursday,4,5
+Medium,Tuesday,2,13
+Medium,Wednesday,3,6

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>São Paulo Traffic Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f3f4f6;--card:#fff;--ink:#16202b;--mute:#5d6b7a;--line:#dde2e8;--acc:#1f5f8b;--lo:#2f9e5b;--md:#e9a23b;--hi:#d64550;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10161d;--card:#18212b;--ink:#e8edf2;--mute:#92a1b0;--line:#2b3744;--acc:#5fa8d6}}
+:root[data-theme="dark"]{--bg:#10161d;--card:#18212b;--ink:#e8edf2;--mute:#92a1b0;--line:#2b3744;--acc:#5fa8d6}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+header{padding:20px 20px 0;max-width:1200px;margin:0 auto}
+h1{margin:0;font-size:24px;font-weight:600}
+.sub{color:var(--mute);margin:2px 0 0}
+main{max-width:1200px;margin:0 auto;padding:16px 20px 40px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:14px 0}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tabs button{background:none;border:0;border-bottom:3px solid transparent;color:var(--mute);padding:10px 14px;font:inherit;cursor:pointer;white-space:nowrap}
+.tabs button.on{color:var(--ink);border-color:var(--acc);font-weight:600}
+select,input[type=file]{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:6px;padding:6px 8px}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.kpis{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));margin-bottom:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px}
+.card h3{margin:0 0 8px;font-size:14px;font-weight:600}
+.kpi b{display:block;font-size:28px;font-weight:600}.kpi span{color:var(--mute);font-size:13px}
+.cv{position:relative;height:280px}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;font-size:12px;width:100%}
+td,th{padding:4px 6px;text-align:center;border:1px solid var(--card)}th{color:var(--mute);font-weight:500}
+td.l,th.l{text-align:left}
+.empty{padding:50px 20px;text-align:center;border:2px dashed var(--line);border-radius:8px;color:var(--mute)}
+.sec{display:none}.sec.on{display:block}
+.sl{display:grid;grid-template-columns:minmax(120px,1.2fr) 2fr 30px;gap:10px;align-items:center;margin:8px 0}
+.sl input{width:100%}
+.big{font-size:44px;font-weight:600;line-height:1}
+.pill{display:inline-block;padding:3px 12px;border-radius:99px;color:#fff;font-weight:600}
+.meter{height:14px;border-radius:7px;background:linear-gradient(90deg,var(--lo),var(--md),var(--hi));position:relative;margin:14px 0 4px}
+.meter i{position:absolute;top:-5px;width:4px;height:24px;background:var(--ink);border-radius:2px}
+.note{color:var(--mute);font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <h1>São Paulo urban traffic: December 14–18, 2009</h1>
+  <p class="sub">Slowness in traffic (%) every 30 minutes, 07:00–20:00</p>
+</header>
+<main>
+  <div class="bar">
+    <label>Load files from <code>powerbi_data</code>: <input type="file" id="f" accept=".csv" multiple></label>
+    <span class="note" id="msg">Choose traffic_clean.csv (required) and model_coefficients.csv (for the simulator).</span>
+  </div>
+  <div id="app" style="display:none">
+    <div class="bar">
+      <label>Weekday <select id="dayF"></select></label>
+      <label>Period <select id="perF"></select></label>
+    </div>
+    <div class="tabs" id="tabs"></div>
+    <div id="s0" class="sec on"></div><div id="s1" class="sec"></div><div id="s2" class="sec"></div><div id="s3" class="sec"></div>
+  </div>
+  <div id="empty" class="empty">Load your CSV files above to build the dashboard. Nothing is uploaded; files are read in your browser.</div>
+</main>
+<script>
+const $=id=>document.getElementById(id), css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const DAYS=["Monday","Tuesday","Wednesday","Thursday","Friday"], TABS=["Overview","Time","Incidents","Risk simulator"];
+let D=[],COEF=null,INC=[],charts={},LOW,HIGH;
+const avg=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:NaN, f1=x=>isNaN(x)?"–":x.toFixed(1);
+const q=(a,p)=>{a=[...a].sort((x,y)=>x-y);const i=(a.length-1)*p,l=Math.floor(i);return a[l]+(a[Math.min(l+1,a.length-1)]-a[l])*(i-l)};
+function parse(t){const L=t.replace(/^\uFEFF/,"").trim().split(/\r?\n/),h=L[0].split(",");
+  return{h,rows:L.slice(1).map(l=>{const c=l.split(",");const o={};h.forEach((k,i)=>{const n=Number(c[i]);o[k]=c[i]!==""&&!isNaN(n)?n:c[i]});return o})}}
+$("f").onchange=async e=>{
+  for(const file of e.target.files){const n=file.name.toLowerCase(),t=await file.text();
+    if(n.includes("traffic_clean")){const p=parse(t);D=p.rows;INC=p.h.slice(p.h.indexOf("Is_Peak_Hour")+1,p.h.indexOf("Total_Incidents"))}
+    if(n.includes("model_coeff"))COEF=parse(t).rows}
+  if(!D.length){$("msg").textContent="traffic_clean.csv is required.";return}
+  const s=D.map(r=>r.Slowness_percent);LOW=+q(s,1/3).toFixed(1);HIGH=+q(s,2/3).toFixed(1);
+  $("msg").textContent=D.length+" rows loaded"+(COEF?" • simulator model loaded":" • add model_coefficients.csv for the simulator");
+  $("empty").style.display="none";$("app").style.display="block";init();render()};
+function init(){
+  $("dayF").innerHTML='<option>All</option>'+DAYS.map(d=>`<option>${d}</option>`).join("");
+  const P=[...new Set(D.map(r=>r.Period))];$("perF").innerHTML='<option>All</option>'+P.map(d=>`<option>${d}</option>`).join("");
+  $("dayF").onchange=$("perF").onchange=render;
+  $("tabs").innerHTML=TABS.map((t,i)=>`<button class="${i?"":"on"}" onclick="tab(${i})">${t}</button>`).join("")}
+function tab(i){document.querySelectorAll(".tabs button").forEach((b,j)=>b.classList.toggle("on",i==j));document.querySelectorAll(".sec").forEach((s,j)=>s.classList.toggle("on",i==j))}
+const rate=v=>v>=HIGH?"High":v>LOW?"Medium":"Low", col=v=>({Low:css("--lo"),Medium:css("--md"),High:css("--hi")})[rate(v)];
+function mk(id,cfg){if(charts[id])charts[id].destroy();Chart.defaults.color=css("--mute");Chart.defaults.borderColor=css("--line");
+  cfg.options=Object.assign({responsive:true,maintainAspectRatio:false},cfg.options);charts[id]=new Chart($(id),cfg)}
+function render(){
+  const d=$("dayF").value,p=$("perF").value,R=D.filter(r=>(d=="All"||r.Weekday==d)&&(p=="All"||r.Period==p));
+  const times=[...new Map(D.map(r=>[r.Hour_code,r.Time])).entries()].sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
+  const S=r=>r.map(x=>x.Slowness_percent), pal=["#1f5f8b","#e9a23b","#2f9e5b","#d64550","#7a5cc2"];
+  // Overview
+  $("s0").innerHTML=`<div class="kpis"><div class="card kpi"><b>${f1(avg(S(R)))}%</b><span>Average slowness</span></div>
+  <div class="card kpi"><b>${f1(Math.max(...S(R)))}%</b><span>Peak slowness</span></div>
+  <div class="card kpi"><b>${R.reduce((a,r)=>a+r.Total_Incidents,0)}</b><span>Total incidents</span></div>
+  <div class="card kpi"><b>${R.filter(r=>r.Risk_Level=="High").length}</b><span>High-risk time slots</span></div></div>
+  <div class="grid"><div class="card"><h3>Slowness through the day</h3><div class="cv"><canvas id="c1"></canvas></div></div>
+  <div class="card"><h3>Average slowness by period</h3><div class="cv"><canvas id="c2"></canvas></div></div></div>`;
+  const ds=(d=="All"?DAYS:[d]).map((w,i)=>({label:w,borderColor:pal[DAYS.indexOf(w)],backgroundColor:pal[DAYS.indexOf(w)],tension:.3,pointRadius:2,
+    data:times.map(t=>avg(R.filter(r=>r.Weekday==w&&r.Time==t).map(r=>r.Slowness_percent)))}));
+  mk("c1",{type:"line",data:{labels:times,datasets:ds},options:{scales:{y:{title:{display:true,text:"Slowness %"}}}}});
+  const per=[...new Set(D.map(r=>r.Period))];
+  mk("c2",{type:"bar",data:{labels:per,datasets:[{data:per.map(x=>avg(S(R.filter(r=>r.Period==x)))),backgroundColor:css("--acc")}]},options:{plugins:{legend:{display:false}}}});
+  // Time
+  const all=D.map(r=>r.Slowness_percent),mn=Math.min(...all),mx=Math.max(...all);
+  const heat=v=>isNaN(v)?"":`color-mix(in srgb, ${col(v)} ${Math.round(25+60*(v-mn)/(mx-mn||1))}%, transparent)`;
+  const pk=avg(S(R.filter(r=>r.Is_Peak_Hour==1))),op=avg(S(R.filter(r=>r.Is_Peak_Hour==0)));
+  $("s1").innerHTML=`<div class="kpis"><div class="card kpi"><b>${f1(pk)}%</b><span>Peak-hour average</span></div><div class="card kpi"><b>${f1(op)}%</b><span>Off-peak average</span></div>
+  <div class="card kpi"><b>${isNaN(pk/op)?"–":Math.round((pk/op-1)*100)+"%"}</b><span>Peak uplift</span></div></div>
+  <div class="card"><h3>Average slowness: weekday × time slot</h3><div class="scroll"><table><tr><th class="l"></th>${times.map(t=>`<th>${t}</th>`).join("")}</tr>
+  ${DAYS.map(w=>`<tr><th class="l">${w.slice(0,3)}</th>${times.map(t=>{const v=avg(D.filter(r=>r.Weekday==w&&r.Time==t).map(r=>r.Slowness_percent));return`<td style="background:${heat(v)}">${f1(v)}</td>`}).join("")}</tr>`).join("")}</table></div>
+  <p class="note">Colour follows the risk level: green low, amber medium, red high. Darker means slower.</p></div>`;
+  // Incidents
+  const imp=INC.map(c=>{const a=R.filter(r=>r[c]>0),b=R.filter(r=>r[c]==0);return{n:c.replace(/_/g," "),ev:R.reduce((s,r)=>s+r[c],0),im:a.length&&b.length?avg(S(a))-avg(S(b)):0,k:a.length}}).filter(x=>x.ev>0).sort((a,b)=>b.im-a.im);
+  const top=[...R].sort((a,b)=>b.Slowness_percent-a.Slowness_percent).slice(0,10);
+  $("s2").innerHTML=`<div class="grid"><div class="card"><h3>Extra slowness when the incident is present (points)</h3><div class="cv"><canvas id="c3"></canvas></div></div>
+  <div class="card"><h3>Total events by incident</h3><div class="cv"><canvas id="c4"></canvas></div></div></div>
+  <div class="card" style="margin-top:14px"><h3>10 most congested time slots</h3><div class="scroll"><table><tr><th class="l">Day</th><th>Time</th><th>Slowness %</th><th>Incidents</th><th>Outlier</th></tr>
+  ${top.map(r=>`<tr><td class="l">${r.Weekday}</td><td>${r.Time}</td><td>${r.Slowness_percent}</td><td>${r.Total_Incidents}</td><td>${r.Is_Outlier?"Yes":""}</td></tr>`).join("")}</table></div></div>
+  <p class="note">Impact compares average slowness in slots with the incident against slots without it. Few observations per incident, and correlation is not causation.</p>`;
+  mk("c3",{type:"bar",data:{labels:imp.map(x=>x.n),datasets:[{data:imp.map(x=>+x.im.toFixed(2)),backgroundColor:imp.map(x=>x.im>=0?css("--hi"):css("--lo"))}]},options:{indexAxis:"y",plugins:{legend:{display:false}}}});
+  mk("c4",{type:"bar",data:{labels:imp.map(x=>x.n),datasets:[{data:imp.map(x=>x.ev),backgroundColor:css("--acc")}]},options:{indexAxis:"y",plugins:{legend:{display:false}}}});
+  sim()}
+let SV={};
+function sim(){
+  if(!COEF){$("s3").innerHTML='<div class="empty">Add <code>model_coefficients.csv</code> to the files you load to unlock the simulator.</div>';return}
+  const cf=Object.fromEntries(COEF.map(r=>[r.Feature,r])), feats=COEF.map(r=>r.Feature).filter(x=>!["Intercept","Hour_code","Hour_code_sq"].includes(x));
+  if(!("Hour_code" in SV))SV={Hour_code:12};
+  const pred=()=>{let v=cf.Intercept.Coefficient+cf.Hour_code.Coefficient*SV.Hour_code+cf.Hour_code_sq.Coefficient*SV.Hour_code**2;feats.forEach(f=>v+=cf[f].Coefficient*(SV[f]||0));return Math.max(0,Math.min(100,v))};
+  const time=m=>{const t=420+(m-1)*30;return String(Math.floor(t/60)).padStart(2,"0")+":"+String(t%60).padStart(2,"0")};
+  $("s3").innerHTML=`<div class="grid"><div class="card"><h3>Set the scenario</h3>
+  <div class="sl"><span>Time slot</span><input type="range" min="1" max="27" value="${SV.Hour_code}" data-f="Hour_code"><b id="v_h">${time(SV.Hour_code)}</b></div>
+  ${feats.map(f=>`<div class="sl"><span>${f.replace(/_/g," ")}</span><input type="range" min="0" max="${Math.max(cf[f].Max_Value+2,5)}" value="${SV[f]||0}" data-f="${f}"><b id="v_${f}">${SV[f]||0}</b></div>`).join("")}
+  <p class="note">Sliders add hypothetical incidents to the chosen time slot.</p></div>
+  <div class="card"><h3>Predicted congestion</h3><div class="big" id="pv"></div><p><span class="pill" id="pr"></span></p>
+  <div class="meter"><i id="pm"></i></div><div class="note" style="display:flex;justify-content:space-between"><span>0%</span><span>Low ≤ ${LOW}% • High ≥ ${HIGH}%</span><span>30%+</span></div>
+  <p class="note" id="ob"></p></div></div>
+  <p class="note">A simple linear model fitted on 135 observations from 5 days. Use it for what-if exploration, not forecasting.</p>`;
+  const upd=()=>{const v=pred(),r=rate(v);$("pv").textContent=f1(v)+"%";$("pr").textContent=r+" risk";$("pr").style.background=col(v);
+    $("pm").style.left=Math.min(100,v/30*100)+"%";
+    const ob=avg(D.filter(x=>x.Hour_code==SV.Hour_code).map(x=>x.Slowness_percent));$("ob").textContent=`Observed average at ${time(SV.Hour_code)} across all days: ${f1(ob)}%`};
+  $("s3").querySelectorAll("input").forEach(i=>i.oninput=()=>{SV[i.dataset.f]=+i.value;$(i.dataset.f=="Hour_code"?"v_h":"v_"+i.dataset.f).textContent=i.dataset.f=="Hour_code"?time(+i.value):i.value;upd()});
+  upd()}
+matchMedia("(prefers-color-scheme: dark)").onchange=()=>D.length&&render();
+</script>
+</body>
+</html>

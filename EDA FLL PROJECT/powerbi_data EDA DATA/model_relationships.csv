@@ -1,0 +1,7 @@
+FromTable,FromColumn,ToTable,ToColumn,Cardinality,CrossFilter
+traffic_clean,Hour_code,dim_time,Hour_code,Many-to-one,Single
+traffic_clean,Weekday,dim_weekday,Weekday,Many-to-one,Single
+incidents_long,Row_ID,traffic_clean,Row_ID,Many-to-one,Single
+incidents_long,Hour_code,dim_time,Hour_code,Many-to-one,Single
+hourly_summary,Hour_code,dim_time,Hour_code,Many-to-one,Single
+weekday_summary,Weekday,dim_weekday,Weekday,One-to-one,Both

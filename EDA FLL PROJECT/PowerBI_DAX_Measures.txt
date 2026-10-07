@@ -1,0 +1,90 @@
+-- ============================================================
+-- São Paulo Traffic — Power BI DAX measures
+-- Paste into a measure table named "Measures"
+-- Fact table: traffic_clean
+-- ============================================================
+
+Avg Slowness =
+AVERAGE ( traffic_clean[Slowness_percent] )
+
+Median Slowness =
+MEDIAN ( traffic_clean[Slowness_percent] )
+
+Max Slowness =
+MAX ( traffic_clean[Slowness_percent] )
+
+Min Slowness =
+MIN ( traffic_clean[Slowness_percent] )
+
+Total Incident Events =
+SUM ( traffic_clean[Total_Incidents] )
+
+Observation Count =
+COUNTROWS ( traffic_clean )
+
+High Risk Slots =
+CALCULATE ( COUNTROWS ( traffic_clean ), traffic_clean[Risk_Level] = "High" )
+
+Medium Risk Slots =
+CALCULATE ( COUNTROWS ( traffic_clean ), traffic_clean[Risk_Level] = "Medium" )
+
+Low Risk Slots =
+CALCULATE ( COUNTROWS ( traffic_clean ), traffic_clean[Risk_Level] = "Low" )
+
+High Risk % =
+DIVIDE ( [High Risk Slots], [Observation Count] )
+
+Outlier Slots =
+CALCULATE ( COUNTROWS ( traffic_clean ), traffic_clean[Is_Outlier] = 1 )
+
+Peak Avg Slowness =
+CALCULATE ( AVERAGE ( traffic_clean[Slowness_percent] ), traffic_clean[Is_Peak_Hour] = 1 )
+
+OffPeak Avg Slowness =
+CALCULATE ( AVERAGE ( traffic_clean[Slowness_percent] ), traffic_clean[Is_Peak_Hour] = 0 )
+
+Peak Premium =
+[Peak Avg Slowness] - [OffPeak Avg Slowness]
+
+Peak Uplift % =
+DIVIDE ( [Peak Premium], [OffPeak Avg Slowness] )
+
+Slots With Any Incident =
+CALCULATE ( COUNTROWS ( traffic_clean ), traffic_clean[Has_Incident] = 1 )
+
+Incident Presence % =
+DIVIDE ( [Slots With Any Incident], [Observation Count] )
+
+Avg Predicted =
+AVERAGE ( traffic_clean[Predicted_Slowness] )
+
+Model MAE =
+AVERAGEX ( traffic_clean, ABS ( traffic_clean[Residual] ) )
+
+Model RMSE =
+SQRT ( AVERAGEX ( traffic_clean, traffic_clean[Residual] ^ 2 ) )
+
+Avg Residual =
+AVERAGE ( traffic_clean[Residual] )
+
+Evening Avg Slowness =
+CALCULATE (
+    AVERAGE ( traffic_clean[Slowness_percent] ),
+    traffic_clean[Period] = "Evening peak (16:30-20:00)"
+)
+
+Midday Avg Slowness =
+CALCULATE (
+    AVERAGE ( traffic_clean[Slowness_percent] ),
+    traffic_clean[Period] = "Midday (10:00-16:00)"
+)
+
+Evening vs Midday Gap =
+[Evening Avg Slowness] - [Midday Avg Slowness]
+
+-- Use on incidents_long
+Incident Event Count =
+SUM ( incidents_long[Incident_Count] )
+
+Incident Slot Count =
+CALCULATE ( COUNTROWS ( incidents_long ), incidents_long[Has_Incident] = 1 )
